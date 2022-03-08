@@ -1,2 +1,2 @@
-# advanced-react-patterns
+# React Intermediate
 From frontendmasters course
